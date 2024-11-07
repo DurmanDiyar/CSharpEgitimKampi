@@ -1,0 +1,7 @@
+D:\MuratYücedağCsharp\01_MainSubjects\02_Variables\bin\Debug\02_Variables.exe.config
+D:\MuratYücedağCsharp\01_MainSubjects\02_Variables\bin\Debug\02_Variables.exe
+D:\MuratYücedağCsharp\01_MainSubjects\02_Variables\bin\Debug\02_Variables.pdb
+D:\MuratYücedağCsharp\01_MainSubjects\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+D:\MuratYücedağCsharp\01_MainSubjects\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+D:\MuratYücedağCsharp\01_MainSubjects\02_Variables\obj\Debug\02_Variables.exe
+D:\MuratYücedağCsharp\01_MainSubjects\02_Variables\obj\Debug\02_Variables.pdb

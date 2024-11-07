@@ -1,0 +1,7 @@
+D:\MuratYücedağCsharp\01_MainSubjects\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+D:\MuratYücedağCsharp\01_MainSubjects\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+D:\MuratYücedağCsharp\01_MainSubjects\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+D:\MuratYücedağCsharp\01_MainSubjects\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+D:\MuratYücedağCsharp\01_MainSubjects\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+D:\MuratYücedağCsharp\01_MainSubjects\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+D:\MuratYücedağCsharp\01_MainSubjects\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
